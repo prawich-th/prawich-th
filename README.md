@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ## About Me :
 Hello I'm a student from thailand that have interest in programming!
 #### Study At : Assumption College | English Program Grade 8
+
+## SS Devs
+I'm currently working with my team called `SS Developers`
