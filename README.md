@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello Sawadee!
+# Hello Sawadee!
 ## About Me :
+Hello I'm a student from thailand that have interest in programming!
+### Study At : Assumption College | English Program
