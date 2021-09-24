@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 # Hello Sawadee!
 ## About Me :
 Hello I'm a student from thailand that have interest in programming!
-### Study At : Assumption College | English Program
+#### Study At : Assumption College | English Program Grade 8
