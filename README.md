@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 # Hello Sawadee!
 ## About Me :
 Hello I'm a student from thailand that have interest in programming!
-#### Study At : Assumption College | English Program Grade 8
+Study At : Assumption College | English Program Grade 8
 
 ## SS Devs
 I'm currently working with my team called `SS Developers`
+
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=Javascript) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass) ![NODEJS](https://badges.aleen42.com/src/node.svg)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SEN-SENSATION&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
