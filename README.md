@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 📠
-- 🔭 TEAM | SS Developers | [To SS developers Respository](https://github.com/SEN-SENSATION/SS-Developers)
+- 🔭 TEAM | SS Developers [JS Engineer] | [To SS developers Respository](https://github.com/SEN-SENSATION/SS-Developers)
 - 🌱 Learing | Mainly `Node JS` and `Java Script`
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
