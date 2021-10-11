@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### Workspaces
 ![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ![MACBOOK](https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SEN-SENSATION&theme=blue-green) ![LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=SEN-SENSATION&theme=blue-green)
+![LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=SEN-SENSATION&theme=blue-green) ![Github Stats](https://github-readme-stats.vercel.app/api?username=SEN-SENSATION&theme=blue-green) 
