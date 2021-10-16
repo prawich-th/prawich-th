@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🇹🇭 From | Thailand
 - 🇺🇸 Speak | English | Thai
 - 📫 Contact | Discord S Ξ N #3334
-- 🌐 Website | Early Development | [[To my website]](http://ssdevelopers.xyz/Prawich_Thawansakdivudhi)
+- 🌐 Website | Early Development | [To my website](http://ssdevelopers.xyz/Prawich_Thawansakdivudhi)
 
 ## Expreince 💾
 - 🏗 New at coding | Started in 2020 when the pandemic started.
