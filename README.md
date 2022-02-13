@@ -8,17 +8,17 @@ Here are some ideas to get you started:
 - 🔭 TEAM | SS Developers [FullStack Development (mostly Backend) ] | [To SS developers Respository](https://github.com/SEN-SENSATION/SS-Developers)
 - 🎓 Education | Assumption College 1885 | English Program Grade 8 [M.2]
 - 🇹🇭 From | Thailand
-- 🇺🇸 Speak | English | Thai
+- 🇺🇸 Speaks | English | Thai
 - 📫 Contact | Discord S Ξ N #3334
 
-## Expreince 💾
+## Expreinces 🗃
 - 🏗 Programming | Started in 2020 when the pandemic started.
 - 🌱 Learing | Mainly Node.Js && MongoDB
 - 🦺 Engineering | Studied Robotics at ACP Robot Club | Since Grade 3 [leaved for programming]
   - 🛩 Attended | [IYRC 2017](https://www.iyrc.org/iyrc2017) | MateROV 2017 | and many more...
 - 🎶 Music | ACP Band | Junior Band | B♭ clarinetist | [leaved to make time for my self]
 
-### Language, Runtime & Frameworks
+### Language, Runtime & Frameworks 💽
 #### Backend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MONDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![MSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 #### Frontend Development
