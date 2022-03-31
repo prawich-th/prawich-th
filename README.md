@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 📠
-- 🔭 TEAM | SS Developers [FullStack Development (mostly Backend) ] | [To SS developers Respository](https://github.com/SEN-SENSATION/SS-Developers)
+- 🔭 TEAM | SS Developers [ Backend Developer (Sometime Help In frontend) ] | [To SS developers Respository](https://github.com/SS-Developers)
 - 🎓 Education | Assumption College 1885 | English Program Grade 8 [M.2]
 - 🇹🇭 From | Thailand
 - 🇺🇸 Speaks | English | Thai
