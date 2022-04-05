@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## About Me 📠
 - 🔭 TEAM | SS Developers [ Backend Developer (Sometime Help In frontend) ] | [To SS developers Respository](https://github.com/SS-Developers)
-- 🎓 Education | Assumption College 1885 | English Program Grade 8 [M.2]
+- 🎓 Education | The Newton Sixth Form School | Year 10 [M3]
 - 🇹🇭 From | Thailand
 - 🇺🇸 Speaks | English | Thai
 - 📫 Contact | Discord S Ξ N #3334
