@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 📠
-- 🔭 TEAM | SS Developers [ Backend Developer (Sometime Help In frontend) ] | [To SS developers](https://github.com/SS-Developers)
+- 🔭 TEAM | SS Developers [ Lead Backend Engineer (Sometime Help In frontend) ] | [To SS developers](https://github.com/SS-Developers)
 - 🎓 Education | The Newton Sixth Form School | Year 10 [M3] 
 - 🇹🇭 From | Thailand
 - 🇺🇸 Speaks | English | Thai
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## Expreinces 🗃
 - 🏗 Programming | Started in 2020 when the pandemic started.
-- 🌱 Learing | Nestjs and Prisma
+- 🌱 Learing | Nestjs
 - 🦺 Engineering | Studied Robotics at ACP Robot Club | Since Grade 3 [Leaved]
   - 🛩 Attended | [IYRC 2017](https://www.iyrc.org/iyrc2017) | MateROV 2017 | and many more...
 - 🎶 Music | ACP Band | Junior Band | B♭ clarinetist | [Leaved]
