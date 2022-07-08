@@ -1,6 +1,6 @@
 ## About Me 📠
 
-- 🔭 **Team** | [SS Developers](https://github.com/SS-Developers) [ Lead Backend Engineer ] also work at [Newton Sixth Form School](https://newton.ac.th) Timetables Project as Project Manager and Lead backend Engineer
+- 🔭 **Team** | [SS Developers](https://github.com/SS-Developers) [ Lead Backend Engineer ] also work at [Newton Sixth Form School](https://newton.ac.th) Timetables Project as Project Director and Lead backend Engineer
 - 🎓 **Education** | The Newton Sixth Form School | Year 11 [M4]
 - 🇹🇭 **From** | Thailand
 - 🇺🇸 **Speaks** | English (Fluent) | Thai (Native)
