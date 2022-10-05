@@ -7,6 +7,7 @@
 - 💼 **Dream Job** | Computational Biology And Bioinformatics Scientists
 - 🌱 **Learing** | Frontend Development & Flute
 - 📫 **Contact** | Discord S Ξ N #3334
+- 🌏 **Website** | [https://prawichth.com](https://prawichth.com)
 
 ## Expreinces 🗃
 
