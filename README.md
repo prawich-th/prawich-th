@@ -1,26 +1,30 @@
 ## About Me 📠
 
-- 🔭 **Team** | [SS Developers](https://github.com/SS-Developers) [ Lead Backend Engineer ] also work at [Newton Sixth Form School](https://newton.ac.th) Timetables Project as Project Director and Lead backend Engineer
+Hi👋, I'm Prawich Thawansakdivudhi. A student at the Newton Sixth Form School. I'm interested in performing arts and theatre, mostly lighitng design, I love it when I'm doing those jobs. I'm also directing 2 plays at my school, one being a Head director and one being a Technical Director. Currently, I'm studing to try to get in to Medical School as I'm interested in Biology of Human.
+
+- 🔭 **Team** | [Alt Developers](https://github.com/Alt-Developers) [ Lead Backend Engineer ] also a student at [Newton Sixth Form School](https://newton.ac.th), Timetables Project as Project Director and Lead backend Engineer
 - 🎓 **Education** | The Newton Sixth Form School | Year 11 [M4]
 - 🇹🇭 **From** | Thailand
 - 🇺🇸 **Speaks** | English (Fluent) | Thai (Native)
-- 💼 **Dream Job** | Computational Biology And Bioinformatics Scientists
-- 🌱 **Learing** | Frontend Development & Flute
+- 💼 **Dream Job** | Neurosurgeon
+- 🌱 **Learing** | Flute, Theatrical Lighting Design
 - 📫 **Contact** | Discord S Ξ N #3334
 - 🌏 **Website** | [https://prawichth.com](https://prawichth.com)
 
 ## Expreinces 🗃
 
 - 🏗 **Programming** | Started focusing in 2020
+- 🎭 **Performing Arts** | Technical Director & Lighting of muliple school play, Head Director in some case.
 - 🦺 **Engineering** | Studied Robotics at ACP Robot Club | Since Grade 3 [Leaved]
   - 🛩 Attended | [IYRC 2017](https://www.iyrc.org/iyrc2017) | MateROV 2017 | and many more...
 - 🎶 **Music** | ACP Band | Junior Band | B♭ clarinetist | [Leaved]
+
 
 ### Language, Runtime & Frameworks 💽
 
 #### Backend Development
 
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![SOCKETIO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![SOCKETIO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 ##### Databases
 
