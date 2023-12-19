@@ -2,8 +2,8 @@
 
 Hi👋, I'm Prawich Thawansakdivudhi. A student at the Newton Sixth Form School. I'm interested in performing arts and theatre, mostly lighitng design, I love it when I'm doing those jobs. I'm also directing 2 plays at my school, one being a Head director and one being a Technical Director. Currently, I'm studing to try to get in to Medical School as I'm interested in Biology of Human.
 
-- 🔭 **Team** | [Alt Developers](https://github.com/Alt-Developers) [ Lead Backend Engineer ] also a student at [Newton Sixth Form School](https://newton.ac.th), Timetables Project as Project Director and Lead backend Engineer
-- 🎓 **Education** | The Newton Sixth Form School | Year 11 [M4]
+- 🔭 **Team** | [Alt Developers](https://github.com/Alt-Developers) [ Backend Developer ] also a student at [Newton Sixth Form School](https://newton.ac.th), Timetables Project as Project Director and Lead backend Engineer
+- 🎓 **Education** | The Newton Sixth Form School | Year 12 (M5)
 - 🇹🇭 **From** | Thailand
 - 🇺🇸 **Speaks** | English (Fluent) | Thai (Native)
 - 💼 **Dream Job** | Neurosurgeon
