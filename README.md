@@ -2,23 +2,16 @@
 
 Hi👋, I'm Prawich Thawansakdivudhi. A student at the Newton Sixth Form School. I'm interested in performing arts and theatre, mostly lighitng design, I love it when I'm doing those jobs. I'm also directing 2 plays at my school, one being a Head director and one being a Technical Director. Currently, I'm studing to try to get in to Medical School as I'm interested in Biology of Human.
 
-- 🔭 **Team** | [Alt Developers](https://github.com/Alt-Developers) [ Backend Developer ] also a student at [Newton Sixth Form School](https://newton.ac.th), Timetables Project as Project Director and Lead backend Engineer
-- 🎓 **Education** | The Newton Sixth Form School | Year 12 (M5)
+- 🎓 **Education** | The Newton Sixth Form School | Year 13 (M6)
 - 🇹🇭 **From** | Thailand
 - 🇺🇸 **Speaks** | English (Fluent) | Thai (Native)
-- 💼 **Dream Job** | Neurosurgeon
-- 🌱 **Learing** | Flute, Theatrical Lighting Design
-- 📫 **Contact** | Discord S Ξ N #3334
-- 🌏 **Website** | [https://prawichth.com](https://prawichth.com)
+- 💼 **Dream University** | Ramathibodhi Hospital, Mahidol University (Doctor of Medicine and Master of Management)
+- 🌱 **Studying** | Microbiology & Medicine
 
 ## Expreinces 🗃
 
-- 🏗 **Programming** | Started focusing in 2020
-- 🎭 **Performing Arts** | Technical Director & Lighting of muliple school play, Head Director in some case.
-- 🦺 **Engineering** | Studied Robotics at ACP Robot Club | Since Grade 3 [Leaved]
-  - 🛩 Attended | [IYRC 2017](https://www.iyrc.org/iyrc2017) | MateROV 2017 | and many more...
-- 🎶 **Music** | ACP Band | Junior Band | B♭ clarinetist | [Leaved]
-
+- 🏗 **Programming** | Started in 2020
+- 🎭 **Performing Arts** | President of the Newton Drama Club
 
 ### Language, Runtime & Frameworks 💽
 
