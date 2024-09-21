@@ -1,6 +1,6 @@
 ## About Me 📠
 
-Hi👋, I'm Prawich Thawansakdivudhi. A student at the Newton Sixth Form School. I'm interested in performing arts and theatre, mostly lighitng design, I love it when I'm doing those jobs. I'm also directing 2 plays at my school, one being a Head director and one being a Technical Director. Currently, I'm studing to try to get in to Medical School as I'm interested in Biology of Human.
+Hi👋, I'm Prawich Thawansakdivudhi. A Health Science student at the Newton Sixth Form. I'm interested in Performing Arts and Sciences. I spent most of my time either studing biology or doing theatre. I'm in multiple leadership position at my school such as president of the Newton Drama Club and President of the Newton Biology Club. Currently is the Teaching Assistant for Biology Subject
 
 - 🎓 **Education** | The Newton Sixth Form School | Year 13 (M6)
 - 🇹🇭 **From** | Thailand
