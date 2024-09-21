@@ -12,6 +12,7 @@ Hi👋, I'm Prawich Thawansakdivudhi. A Health Science student at the Newton Six
 
 - 🏗 **Programming** | Started in 2020
 - 🎭 **Performing Arts** | President of the Newton Drama Club
+- 🧫 **Biology** | Interned at the National Institude of Health (Thailand), Teacher Assistant (Biology, Newton)
 
 ### Language, Runtime & Frameworks 💽
 
