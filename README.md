@@ -5,7 +5,6 @@ Hi👋, I'm Prawich Thawansakdivudhi. A Health Science student at the Newton Six
 - 🎓 **Education** | The Newton Sixth Form School | Year 13 (M6)
 - 🇹🇭 **From** | Thailand
 - 🇺🇸 **Speaks** | English (Fluent) | Thai (Native)
-- 💼 **Dream University** | Ramathibodhi Hospital, Mahidol University (Doctor of Medicine and Master of Management)
 - 🌱 **Studying** | Microbiology & Medicine
 
 ## Expreinces 🗃
